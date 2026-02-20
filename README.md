@@ -2,6 +2,8 @@
 
 A **local background remover** in Python that lets you remove backgrounds from images **without uploading anything online**. Perfect for presentations, projects, or whenever you want your images to look **clean and professional**.
 
+**Note:** This script currently works only on **Linux**. Clipboard saving uses `xclip`, so it won't work on Windows or macOS yet.  
+
 ## Features
 - Remove backgrounds from images locally.
 - Import images from **clipboard** or **file**.
