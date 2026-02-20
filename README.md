@@ -13,8 +13,8 @@ A **local background remover** in Python that lets you remove backgrounds from i
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
-   cd <repo_folder>
+   git clone https://github.com/patriq128/Backround-Remover.git
+   cd Backround-Remover
    ```
 2. Install dependencies:
    ```bash
